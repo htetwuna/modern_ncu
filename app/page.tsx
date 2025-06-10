@@ -180,7 +180,7 @@ export default function SportTeamWebsite() {
         <div className="container mx-auto px-4 lg:px-6">
           <div className="text-center mb-12">
             <h2 className="text-3xl lg:text-4xl font-bold mb-4">Upcoming Games</h2>
-            <p className="text-xl text-muted-foreground">Don't miss our next games. Get your tickets now!</p>
+            <p className="text-xl text-muted-foreground">Dont miss our next games. Get your tickets now!</p>
           </div>
           <div className="max-w-4xl mx-auto">
             <div className="space-y-4">
